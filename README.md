@@ -1,14 +1,4 @@
-# Stuff
-
-Exams are coming up, so I shouldn't be working too much on it for now.
-If I do and you see it, please, tell me to stop.
-
-Also, I starting coding a game loop, a mini component system and all, until i
-remembered my goal isn't to make a game engine (or at least, not yet), but to do
-a game.
-So I'm starting with bevy, this time.
-
-## Game overview
+# Game overview
 
 This game is going to be (once finished) about information.
 
@@ -57,6 +47,16 @@ Not just as in random events, but as in, someone who is very good at the game
 should almost (if not) always win against someone who's not.
 
 Scope creep ? What's that ? Never heard of it.
+
+## Stuff
+
+Exams are coming up, so I shouldn't be working too much on it for now.
+If I do and you see it, please, tell me to stop.
+
+Also, I starting coding a game loop, a mini component system and all, until i
+remembered my goal isn't to make a game engine (or at least, not yet), but to do
+a game.
+So I'm starting with bevy, this time.
 
 ## Current tasks
 
